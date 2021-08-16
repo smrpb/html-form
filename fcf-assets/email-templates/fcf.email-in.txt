@@ -1,0 +1,4 @@
+Your name: {Name}
+Your email address: {Email}
+Your phone number (optional): {Phone}
+Your message: {Message}
